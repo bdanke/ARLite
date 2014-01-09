@@ -1,0 +1,5 @@
+require_relative './lib/associatable'
+require_relative './lib/db_connection'
+require_relative './lib/mass_object'
+require_relative './lib/searchable'
+require_relative './lib/sql_object'
